@@ -1,16 +1,13 @@
-# great_places
+# Great Places App
 
-A new Flutter project.
+A place sharing app made in Flutter with [provider](https://pub.dev/packages/provider), [http](https://pub.dev/packages/http), [google maps flutter](https://pub.dev/packages/google_maps_flutter), [location](https://pub.dev/packages/location), [sqflite](https://pub.dev/packages/sqflite) & some others. 
 
-## Getting Started
+![teste1](https://user-images.githubusercontent.com/60455369/193126842-10307298-059d-4707-b7ef-a97304763aec.PNG)
+![teste2](https://user-images.githubusercontent.com/60455369/193126847-69751bb1-f2ee-4b01-885b-14b68063b470.PNG)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Running Instructions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To run this app on a machine with flutter installed, just run the following code on your terminal:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```flutter run```
